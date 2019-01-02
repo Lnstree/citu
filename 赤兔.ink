@@ -5,5 +5,5 @@ INCLUDE section1
 
 VAR your_name = "方别"
 
-->background
+//->background
 ->secion1
