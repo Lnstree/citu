@@ -7,4 +7,5 @@ VAR your_name = "方别"    // 主角名称
 VAR ganben_feel = 0       // 冈本好感度
 
 //->background
-->secion1
+//->secion1
+->secion1_1_killTeacher
