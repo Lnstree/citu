@@ -8,4 +8,5 @@ VAR ganben_feel = 0       // 冈本好感度
 
 //->background
 //->secion1
-->secion1_1_killTeacher
+->section1_1_findBetray
+//->section1_1_selectStudent2
