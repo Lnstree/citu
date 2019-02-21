@@ -14,9 +14,9 @@ VAR backgroudcolor = "white"
 VAR fontcolor = "black"
 
 //->secion1_1_killTeacher
-//->background
+->background
 //->secion1
 //->section1_1_findBetray
 //->section1_1_selectStudent2
 
-->section2_backgorud
+//->section2_backgorud∂
