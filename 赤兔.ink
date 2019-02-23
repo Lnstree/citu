@@ -15,9 +15,10 @@ VAR ganben_feel = 0       // 冈本好感度
 VAR zxm_feel = 0
 VAR backgroudcolor = "white"
 VAR fontcolor = "black"
+VAR sectionInfo=""
 
 //->secion1_1_killTeacher
-->background
+->section1
 //->secion1
 //->section1_1_findBetray
 //->section1_1_selectStudent2
