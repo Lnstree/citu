@@ -1,11 +1,14 @@
-INCLUDE test
-INCLUDE badover
+
 INCLUDE section1
 INCLUDE section2
-INCLUDE badover2
+INCLUDE section3
+INCLUDE section4
+INCLUDE section5
+INCLUDE section6
+INCLUDE section7
 
-
-
+INCLUDE section1_end
+INCLUDE section2_end
 
 VAR your_name = "方别"    // 主角名称
 VAR ganben_feel = 0       // 冈本好感度
