@@ -18,9 +18,9 @@ VAR fontcolor = "black"
 VAR sectionInfo=""
 
 //->secion1_1_killTeacher
-->section1
+//->section1
 //->secion1
 //->section1_1_findBetray
 //->section1_1_selectStudent2
-
+->section3
 //->section2_backgorud∂
