@@ -8,6 +8,7 @@ INCLUDE section6
 
 INCLUDE section1_end
 INCLUDE section2_end
+INCLUDE section3_end
 
 VAR your_name = "方别"    // 主角名称
 VAR ganben_feel = 0       // 冈本好感度
