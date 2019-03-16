@@ -33,4 +33,5 @@ VAR feizhao=false        //开头带冈山爱逛街时的选项必须选“日�
 //->zklx
 //->section2_backgorud∂
 //->section6
-->section5
+//->section5
+->section4
