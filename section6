@@ -271,11 +271,11 @@ VAR buy_paper = false
 -你看了看手头的东西：一把枪，一包香烟，一盒火柴。
 -你决定... ...
 *[冲出去和军统特工正面决斗]
-->s6_end_ccqy
+//->s6_end_ccqy
 *[纵火]
 ->s6_zh
 *[抽烟想办法]
-->s6_end_cyxbf
+//->s6_end_cyxbf
  
 =s6_zh
 -你点燃了床单。
@@ -534,7 +534,7 @@ VAR buy_paper = false
 *... ...时刻准备着
 ->s6_skzbz
 *"暗杀之王"是许先生的手下杀死的！
-->s6_end_aszw
+//->s6_end_aszw
 
 
 
@@ -569,7 +569,7 @@ VAR buy_paper = false
 许先生:也许军统与冈山的合作会对共党不利，但我们也是爱国者。我们会想尽办法保卫上海滩，避免美丽的家园在日军的炮火中沦为灰烬。
 许先生:那么，方先生愿意配合吗?
 *休想继续利用我 !
-->s6_end_xxzlyw
+//->s6_end_xxzlyw
 *我没有拒绝的理由。
 ->s6_wmyjjdly
 
@@ -633,7 +633,7 @@ VAR buy_paper = false
 无情:方先生，你的决定是?
 你的回答是.. ..
 *我喜欢这场戏，请让我安静地把它演完
-->s6_end_wxhzcx
+//->s6_end_wxhzcx
 *我相信自己可以活的比戏更精彩
 ->s6_wxwkehd
 
