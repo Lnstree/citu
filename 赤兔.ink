@@ -21,7 +21,8 @@ VAR zxm_feel = 0
 VAR backgroudcolor = "white"
 VAR fontcolor = "black"
 VAR sectionInfo=""
-VAR feizhao=false        //开头带冈山爱逛街时的选项必须选“日军犯下滔天罪行，中国人岂会轻易忘记”，否则第五章就没有冈山爱送肥皂剧情
+VAR feizhao=false       // 开头带冈山爱逛街时的选项必须选“日军犯下滔天罪行，中国人岂会轻易忘记”，否则第五章就没有冈山爱送肥皂剧情
+VAR helpTw=false        // 如果你之前在第二章12项和李岸的对话中选择了【我想帮助天皇，建立强盛的大东亚共荣圈】，那么此处你选【黄夫人】就会触发dead end)
 
 //->secion1_1_killTeacher
 //->section1
