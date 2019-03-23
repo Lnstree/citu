@@ -9,6 +9,7 @@ INCLUDE section6
 INCLUDE section1_end
 INCLUDE section2_end
 INCLUDE section3_end
+INCLUDE section4_end
 INCLUDE section6_end
 INCLUDE section5_end
 
