@@ -30,8 +30,8 @@ VAR helpTw=false        // 如果你之前在第二章12项和李岸的对话中
 //->secion1
 //->section1_1_findBetray
 //->section1_1_selectStudent2
-->section4
+//->section4
 //->zklx
 //->section2_backgorud∂
 //->section6
-//->section5
+->section5
