@@ -12,6 +12,7 @@ INCLUDE section3_end
 INCLUDE section4_end
 INCLUDE section6_end
 INCLUDE section5_end
+INCLUDE section_happy_end
 
 
 
