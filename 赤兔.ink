@@ -13,6 +13,8 @@ INCLUDE section4_end
 INCLUDE section6_end
 INCLUDE section5_end
 INCLUDE section_happy_end
+INCLUDE section5_hydrophis
+
 
 
 
@@ -29,5 +31,5 @@ VAR Section4_See2hao = false            //  第四章是否见是否见2号
 
 
 
-->section4.s4_ggdf
+->section4.s4_see_kx
     
