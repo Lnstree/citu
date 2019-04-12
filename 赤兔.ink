@@ -31,5 +31,5 @@ VAR Section4_See2hao = false            //  第四章是否见是否见2号
 
 
 
-->section5_hydrophis.s5_hy_2
+->s5_hy_select.s5_hy_mynameis
     
