@@ -29,7 +29,4 @@ VAR havesection7   = false
 VAR helpTw         = false
 VAR Section4_See2hao = false            //  第四章是否见是否见2号
 
-
-
-->s5_hy_select.s5_hy_kaihui
-    
+->section5.s5_haskywbpgxll
