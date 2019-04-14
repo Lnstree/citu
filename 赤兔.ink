@@ -29,4 +29,4 @@ VAR havesection7   = false
 VAR helpTw         = false
 VAR Section4_See2hao = false            //  第四章是否见是否见2号
 
-->section5.s5_haskywbpgxll
+->section5.s5_asx_wmbl
