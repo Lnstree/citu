@@ -30,4 +30,4 @@ VAR havesection7   = false
 VAR helpTw         = false
 VAR Section4_See2hao = false            //  第四章是否见是否见2号
 
-->section5.s5_gsa_mbl
+->section5.s5_jgbls2
