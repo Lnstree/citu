@@ -22,6 +22,7 @@ INCLUDE section5_hydrophis
 VAR your_name = "方别"    // 主角名称
 VAR ganben_feel = 0       // 冈本好感度
 VAR zxm_feel = 0
+VAR gba_feizhao = false   // 第五章冈本爱是否送肥皂
 VAR backgroudcolor = "white"
 VAR fontcolor      = "black"
 VAR sectionInfo    = ""
@@ -29,4 +30,4 @@ VAR havesection7   = false
 VAR helpTw         = false
 VAR Section4_See2hao = false            //  第四章是否见是否见2号
 
-->section5.s5_asx_wmbl
+->section5.s5_gsa_mbl
