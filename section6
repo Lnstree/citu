@@ -1655,7 +1655,7 @@ VAR buy_paper = false
 -这次谈话不到五分钟。
 *[next]
 -但它激励你度过了日后的漫长岁月。
-*[next]->s6_end_shjf
+*[next]->s6_shjf
 
 =s6_shjf
 -5月末，上海解放。
