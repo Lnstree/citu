@@ -1,5 +1,6 @@
-VAR LMY_SAVE = false    // 陆梦茵是否会救我
-VAR HYH_KILL = false    // 洪义海背叛
+INCLUDE global
+INCLUDE section5_end
+
 
 ===section5
 陆梦茵：时间是？
