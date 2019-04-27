@@ -11,14 +11,14 @@ VAR helpTw         = false
 
 
 VAR Section4_See2hao = false            //  第四章是是否见2号
-VAR xianglian = false   // 是否取走项链
-VAR haiyi = 0           // 冈山雄二怀疑度(第三章)
-VAR rejectZxm = false   // 拒绝回答张晓梦
+VAR xianglian = false                   // 是否取走项链
+VAR haiyi = 0                           // 冈山雄二怀疑度(第三章)
+VAR rejectZxm = false                   // 拒绝回答张晓梦
 
-VAR hssection = false    // 进入海蛇线
-VAR LMY_SAVE = false    // 陆梦茵是否会救我
-VAR HYH_KILL = false    // 洪义海背叛
-VAR kx_feel = 0 		// 康兴好感度 （海蛇线）
+VAR hssection = false                   // 进入海蛇线
+VAR LMY_SAVE = false                    // 陆梦茵是否会救我
+VAR HYH_KILL = false                    // 洪义海背叛
+VAR kx_feel = 0 		                // 康兴好感度 （海蛇线）
 
 
 VAR buy_paper = false	// 第六章买纸
