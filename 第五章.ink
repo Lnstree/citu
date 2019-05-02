@@ -4158,7 +4158,7 @@ VAR hastalkcnOK = false
 -惦记着它，为它不懈奋斗吧。
 *[next]
 -在远方，为它奋斗。
-
+# enter:第六章
 ->END
 
 
