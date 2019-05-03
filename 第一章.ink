@@ -6,7 +6,7 @@ INCLUDE section1_end
 
 =section1
 -第一章#section
--我叫{your_name}，男，22岁。 
+-我叫{your_name}，男，22岁。 #enter:第二章
 *[next]
 -1939年2月，在日本留学两年后，我终于坐上了去故乡上海的船。
 *[next]
@@ -609,5 +609,5 @@ INCLUDE section1_end
 提供报社爱国者名单，出卖地下党。
 亲手杀害恩师薛星文，对其女薛梅造成重大精神打击。
 *[第一章结束]
-# enter:第二章
+#enter:第二章
 ->END
