@@ -5,7 +5,9 @@ VAR  saveGirl = false
 ->s6_asx_home
 
 ===section6
-1945年，1月4日，黎明。
+-第六章 #section
+*[next]
+-1945年，1月4日，黎明。
 *[next]
 -狭窄，浑浊，沉闷。
 *[next]

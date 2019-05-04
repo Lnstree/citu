@@ -4,6 +4,8 @@ INCLUDE section4_end
 
 ->s4_is2.s4_jsxs
 ===section4_scene_1     // 第四章背景独白
+-第四章 #section
+*[next]
 1943年3月，上海某地。
 *[next]
 -？？？：陆梦茵同志，恭喜你获得野田敏明的信任！我们一年的努力终于有了结果！我代表党，代表人民，向你表示感谢！

@@ -2,7 +2,9 @@ INCLUDE global
 INCLUDE section5_end
 
 ===section5_hydrophis
-陆梦茵：时间是？
+-第五章 #section
+*[next]
+-陆梦茵：时间是？
 *[next]
 -你看了看表，还差五分钟。
 *[next]
