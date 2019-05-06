@@ -6,14 +6,15 @@ VAR backgroudcolor = "white"
 VAR fontcolor      = "black"
 VAR sectionInfo    = ""
 VAR havesection7   = false   
-VAR helpTw         = false
+VAR helpTw         = false              // 大东亚共荣
 
 
 
-VAR Section4_See2hao = false            //  第四章是是否见2号
+VAR Section4_See2hao = false            // 第四章是是否见2号
 VAR xianglian = false                   // 是否取走项链
 VAR haiyi = 0                           // 冈山雄二怀疑度(第三章)
 VAR rejectZxm = false                   // 拒绝回答张晓梦
+VAR asxjh     = false                   // 再见安四贤
 
 VAR hssection = false                   // 进入海蛇线
 VAR LMY_SAVE = false                    // 陆梦茵是否会救我
