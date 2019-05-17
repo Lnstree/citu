@@ -6,8 +6,9 @@ INCLUDE section1_end
 
 =section1
 -第一章 #section
--我叫{your_name}，男，22岁。 //#enter:第二章
-*[next]
+~helpTw=true
+-我叫{your_name}，男，22岁。
+*[next] #enter:第二章
 -1939年2月，在日本留学两年后，我终于坐上了去故乡上海的船。#place:日本|上海
 *[next]
 -我的日本朋友曾问我:上海的局势很不稳定，你为什么不留在日本直到战争结束？#place:上海

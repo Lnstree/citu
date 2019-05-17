@@ -24,7 +24,7 @@ VAR kx_feel = 0 		                // 康兴好感度 （海蛇线）
 
 VAR buy_paper = false	// 第六章买纸
 
-LIST infoList = b1,b2, b3, b4, b5, b6
+LIST infoList = b1, b2, b3, b4, b5, b6
 
 
 #global tags
