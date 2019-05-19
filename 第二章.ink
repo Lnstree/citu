@@ -2,7 +2,7 @@ INCLUDE global
 INCLUDE section2_end
 
 //->section2
-->section2_total
+->section2
 ===section2
 -第二章 #section
 *[next]
@@ -89,11 +89,11 @@ INCLUDE section2_end
 -你的回答是... ... #linecolor:yellow
 *年少无知，有什么可怀念的！
 --郑君如：啊！对、对不起...
-*[next]->section_2_select
+**[next]->section_2_select
 *嗯... ...再也回不去了
 ~zxm_feel += 1
 --郑君如：... ...
-*[next]-->section_2_select
+**[next]-->section_2_select
 
 
 ->END
@@ -112,9 +112,9 @@ INCLUDE section2_end
 *[跟上他们]->section2_select2
 *[继续躲着]
 --过了一会儿，枪声渐消。
-*[next]
+**[next]
 --特务们消灭了所有暗杀队员，开始寻找金忠祥的下落。
-*[next]->dead_setion2_noaction
+**[next]->dead_setion2_noaction
 ->END
 
 
@@ -603,6 +603,7 @@ INCLUDE section2_end
 
 
 ===section2_total
+*[........]
 -1940年,你获得了汪伪政府特务科的信任。
 -作为海蛇：
 -多次协助并参与地下党的暗杀行动。
