@@ -162,7 +162,7 @@
 ->END
 
 ===dead_section1_xuemei
-你暗中观察薛梅的时候，不小心被她察觉。
+-你暗中观察薛梅的时候，不小心被她察觉。
 *[next]
 -薛梅：{your_name}!我要杀死你!  #sound:叫喊 #linecolor:red
 *[next]
