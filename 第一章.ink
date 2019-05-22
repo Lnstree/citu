@@ -163,7 +163,7 @@ INCLUDE section1_end
 +++[next]
 --薛星文：一方面，知道的东西少点可以让她更安全；另一方面，有时候我也怀疑，自己的女儿会不会是叛徒... ... #name:自己的女儿会不会是叛徒
 +++[next]
---薛星文：总之，你的身份不能让我们之外的任何人知道！
+--薛星文：总之，你的身份不能让我们之外的任何人知道！ #tip:你的身份不能让我们之外的任何人知道！
 +++ [back]->info
 
 + [我没有问题了]
@@ -286,7 +286,7 @@ INCLUDE section1_end
 -  love_value==5:
 冈山雄二好感度+5  #linecolor:green
 ~  ganben_feel += 5
--  else：
+-  else:
 冈山雄二好感度+3  #linecolor:green
 ~  ganben_feel += 3
 }
@@ -405,9 +405,8 @@ INCLUDE section1_end
 *[next]
 {
 - ganben_feel < 8:
- 
     ->dead_yanan2
-- else：
+- else:
     经过一段时间的接触，冈山雄二似乎越来越器重你了。
     ->secion1_1_killTeacher
 }
