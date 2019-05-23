@@ -53,7 +53,6 @@ INCLUDE section2_end
 ->END
 
 ===section_2_select
-*[next]
 -你看了看表：12点53分。刘先生告诉你的暗杀时间是13点整。 #tip:12点53分|13点整
 *[next]
 -到时，地下党暗杀小组将会从某个角落出现，射杀金忠祥及其他汉奸。
@@ -93,7 +92,7 @@ INCLUDE section2_end
 *嗯... ...再也回不去了
 ~zxm_feel += 1
 --郑君如：... ...
-**[next]-->section_2_select
+**[next]->section_2_select
 
 
 ->END
@@ -307,7 +306,7 @@ INCLUDE section2_end
 -张晓梦：唯一的办法...就是找出证据！
 *[next]
 -李岸：... ... 我知道了，晓梦。
--李岸：{your_name}先生，咱们走着瞧。哦一定会找到证据，扒下你的皮。
+-李岸：{your_name}先生，咱们走着瞧。 我一定会找到证据，扒下你的皮。
 *[next]
 -由于金忠祥的死亡，国民党上海地下组织得到了保护。
 *[next]
@@ -359,7 +358,7 @@ INCLUDE section2_end
 
 =select_alive
 *[next]
--某夜，你独自一个人回家。
+-某夜，你独自一个人回家。  #tip:某夜
 *[next]
 -不知为何，你脑海中忽然浮现了薛梅的脸庞。 #name:薛梅
 *[next]

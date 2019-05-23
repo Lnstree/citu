@@ -7,7 +7,7 @@ INCLUDE section1_end
 =section1
 -第一章 #section
 ~helpTw=true
--我叫{your_name}，男，22岁。 
+-我叫{your_name}，男，22岁。  #bgmopen:一生守候
 *[next]
 -1939年2月，在日本留学两年后，我终于坐上了去故乡上海的船。#place:日本|上海 #yellow:1939年2月
 *[next]

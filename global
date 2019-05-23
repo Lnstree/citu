@@ -10,6 +10,7 @@ VAR helpTw         = false              // 大东亚共荣
 
 
 
+
 VAR Section4_See2hao = false            // 第四章是是否见2号
 VAR xianglian = false                   // 是否取走项链
 VAR haiyi = 0                           // 冈山雄二怀疑度(第三章)
