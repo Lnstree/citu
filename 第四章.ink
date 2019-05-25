@@ -2,8 +2,8 @@ INCLUDE global
 INCLUDE section4_end
 
 
-//->section4_scene_1
-->section4.s4_bddh
+->section4_scene_1
+//->section4.s4_bddh
 
 ===section4_scene_1     // 第四章背景独白
 -第四章                 #section
