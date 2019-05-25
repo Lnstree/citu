@@ -18,7 +18,7 @@ VAR rejectZxm = false                   // 拒绝回答张晓梦
 VAR asxjh     = false                   // 再见安四贤
 
 VAR hssection = false                   // 进入海蛇线
-VAR LMY_SAVE = false                    // 陆梦茵是否会救我
+
 VAR HYH_KILL = false                    // 洪义海背叛
 VAR kx_feel = 0 		                // 康兴好感度 （海蛇线）
 
