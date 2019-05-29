@@ -178,9 +178,10 @@
 
 
 ==s2_end_zl
+*[next]
 -张晓梦：{your_name}先生... ...无论如何，我都要谢谢你，陪我度过今夜... ... 
 *[next]
--你醉了 #linecolor:red #sound:effect #sound:枪声
+-你醉了 #linecolor:red #effect:red #sound:枪声
 *[next]
 -剧终
 ->END
