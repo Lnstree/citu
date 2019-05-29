@@ -27,6 +27,7 @@ VAR buy_paper = false	// 第六章买纸
 LIST infoList = b1, b2, b3, b4, b5, b6 
 
 
+
 #global tags
 #name_style:
 #word_style:
